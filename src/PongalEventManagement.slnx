@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="PongalEventManagement.Application/PongalEventManagement.Application.csproj" />
+  <Project Path="PongalEventManagement.Domain/PongalEventManagement.Domain.csproj" />
+  <Project Path="PongalEventManagement.Infrastructure/PongalEventManagement.Infrastructure.csproj" />
+  <Project Path="PongalEventManagement.Persistence/PongalEventManagement.Persistence.csproj" />
+  <Project Path="PongalEventManagement.API/PongalEventManagement.API.csproj" />
+</Solution>
